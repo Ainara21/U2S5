@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 61, 75);
+}
+.container{
+    background-color: pink;
+    width: 500px;
+    padding: 2rem;
+    border-radius:20px ;
+}
+#btnReestablecer{
+    background-color: palevioletred;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
